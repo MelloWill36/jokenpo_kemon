@@ -1,16 +1,13 @@
-# jokenpo
+# jokenPo kemon
 
-segundo app
+Feito em Flutter, esse foi meu segundo projeto do curso do professor Jamilton Damasceno. 
+O programa tem uma lógica simples, mas muito válido para treinar a parte de estruturação de um App.
+Eu fiz algumas alterações do projeto ensinado no curso. Troquei os "personagens" originais, por personagens Pokemons.
+Onde Charizard assume o pepel da Pedra, o Bulbasaur assume o papel da Tesoura e o Blastoise do Papel. Essas alterações 
+foram baseadas nas suas fraquezas em batalhas mostradas no desenho original. Onde Pokemons fogo tem fraqueza a agua, os 
+de planta tem fraqueza ao fogo e os de água tem fraqueza à plantas.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+[![JokenPo kemon](https://res.cloudinary.com/marcomontalbano/image/upload/v1633273148/video_to_markdown/images/youtube--RAnXWJkx8yA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/RAnXWJkx8yA "JokenPo kemon")
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://youtu.be/RAnXWJkx8yA
